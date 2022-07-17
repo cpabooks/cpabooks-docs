@@ -10,15 +10,10 @@
   :description: Odoo 14 Best Practices
   :keywords: Odoo Book, Odoo Online, Online Odoo Book, Odoo Functional Book, Version 12.0
 
-Odoo 14 Best Practices
+CPAbooks Best Practices
 ======================
-This book is dedicated for entrepreneur who wants to implement all-in-one
-business application out-of-the box for their business.
+We provide Cloud based ERP Software which is integrated with Accounts, HR Payroll, Inventory/ Stock, Projects, CRM, CAFM and all. Its available for Contracting business, Trading, Freight/ Logistics support, Medicine, Building materials, Switchgear, Projects Management co., Business HUB Solutions, Facilities Management Solutions and all for Corporate & SME. Get access in Cloud /online, local computer, mobile device or wherever you are! It's sophisticated and latest dynamic platform ever before in the business! Get software, support, customization and develop a full fledged ERP for your Industry in short time of period.
 
-**Odoo 14 Best Practices Book** is an online book written based on
-Community and Enterprise Edition. This book covers best implementation practice
-for most used applications such as Sales, Purchase, Inventory, 
-Financial Accounting and Manufacturing.
 
 .. note:: Please comment on the page below, if you have any question related to
   that topic, you can also propose new topics you would like to have on the book.
