@@ -11,7 +11,7 @@
    single: About Reviewer
 
 ============================
-About Odoo 14 Best Practices
+About CPAbooks Best Practices
 ============================
 
 .. image:: images/odoo-14-book-small.png
@@ -21,7 +21,7 @@ About Odoo 14 Best Practices
    :alt: Odoo 14 Best Practices
    :align: right
 
-Odoo 14 Best Practices book is dedicated for functional consultants
+CPAbooks Best Practices book is dedicated for functional consultants
 or entrepreneur who wants to implement or use odoo online all-in-one business
 
 application out-of-the box. This is an online book written based on Odoo
