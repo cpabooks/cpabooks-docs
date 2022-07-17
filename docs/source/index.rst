@@ -1,13 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to CpaBooks's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+**CpaBooks** provide Cloud based ERP Software which is integrated with Accounts, HR Payroll, Inventory/ Stock, Projects, CRM, CAFM and all. Its available for Contracting business, Trading, Freight/ Logistics support, Medicine, Building materials, Switchgear, Projects Management co., Business HUB Solutions, Facilities Management Solutions and all for Corporate & SME. Get access in Cloud /online, local computer, mobile device or wherever you are! It's sophisticated and latest dynamic platform ever before in the business! Get software, support, customization and develop a full fledged ERP for your Industry in short time of period.
 
 .. note::
 
