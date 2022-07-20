@@ -1,7 +1,7 @@
 .. _about:
 
 .. meta::
-   :description: Title: Odoo 14 Best Practices, Author: Mantavya Gajjar, Category: Books, Price: Free
+   :description: Title: Odoo 14 Best Practices, Author: CPAbooks, Category: Books, Price: Free
    :keywords: Odoo Online Book, Odoo Functional Book, Odoo CookBook, Implement Odoo Version 12.0, Mantavya, Gajjar
 
 .. index::
@@ -77,7 +77,7 @@ to get the updates about the book.
 About the Author
 ================
 
-Mantavya Gajjar has 12+ years’ experience in Odoo, starting from TinyERP
+CPAbooks has 12+ years’ experience in Odoo, starting from TinyERP
 and OpenERP. He started his career as a developer, he developed many new
 features in TinyERP, OpenERP and Odoo. He has graduate and postgraduate
 degrees in Computer Applications from Gujarat Vidyapith. In June 2006,
