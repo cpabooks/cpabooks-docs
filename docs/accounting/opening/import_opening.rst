@@ -4,7 +4,7 @@
    single: Opening Balance
 
 ================================================
-Setup Odoo Accounting and Import opening balance
+Setup CPAbooks Accounting and Import opening balance
 ================================================
 
 Video

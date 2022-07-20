@@ -1,6 +1,6 @@
 .. _accountingintroduction:
 
-Odoo Accounting
+CPAbooks Accounting
 ===============
 Access the video at https://www.youtube.com/watch?v=6XgKPjgyoec
 
