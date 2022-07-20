@@ -1,6 +1,6 @@
 .. _odooaccounting:
 
-The Accounting behind Odoo
+The Accounting behind CPAbooks
 ==========================
 
 This page summarises the way Odoo deals with typical accounts and transactions.
@@ -46,7 +46,7 @@ As transactions are associated to customers or suppliers, you get reports to per
 
 Wide range of financial reports
 -------------------------------
-In Odoo, you can generate financial reports in real time. Odoo’s reports range from basic accounting reports to advanced management reports. Odoo’s reports include:
+In CPAbooks, you can generate financial reports in real time. CPAbooks reports range from basic accounting reports to advanced management reports. Odoo’s reports include:
 
 * Performance reports (such as Profit and Loss, Budget Variance)
 * Position reports (such as Balance Sheet, Aged Payables, Aged Receivables)
