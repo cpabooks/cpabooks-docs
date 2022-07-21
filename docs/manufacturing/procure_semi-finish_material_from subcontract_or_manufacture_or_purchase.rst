@@ -2,7 +2,7 @@
 
 .. meta::
    :description: Flexible MRP flows, procure semi-finish material from subcontract or manufacture or purchase
-   :keywords: Odoo, Manufacturing, Subcontracting, Purchase, Supply Material, Receive Service Bill, Receive Finished Product
+   :keywords: CPAbooks, Manufacturing, Subcontracting, Purchase, Supply Material, Receive Service Bill, Receive Finished Product
 
 .. index::
    single: Decide runtime how to procure semi-finish material

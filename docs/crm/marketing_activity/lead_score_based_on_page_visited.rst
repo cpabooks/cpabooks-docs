@@ -14,7 +14,7 @@ Configuration
 -------------
 
 To use this feature, install the module **Lead Scoring** under your Apps
-page available in Odoo Enterprise only.
+page available in CPAbooks Enterprise only.
 
 |image0|
 

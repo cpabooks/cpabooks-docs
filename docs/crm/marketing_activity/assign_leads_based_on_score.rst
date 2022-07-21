@@ -16,7 +16,7 @@ Configuration
 -------------
 
 Install a module **Lead Scoring** under your **Apps** page available in
-Odoo Enterprise only.
+CPAbooks Enterprise only.
 
 |image0|
 

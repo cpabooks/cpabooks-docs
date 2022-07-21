@@ -1,7 +1,7 @@
 .. _indent:
 
 .. meta::
-  :description: Setup Indent management (internal material request) with Odoo stock application
+  :description: Setup Indent management (internal material request) with CPAbooks stock application
   :keywords: Indent, Material Request, Department Request, Manage Indents, Request for material
 
 .. index::
@@ -9,7 +9,7 @@
    single: Request for material
 
 ===============================================================================
-Setup Indent management (internal material request) with Odoo stock application
+Setup Indent management (internal material request) with CPAbooks stock application
 ===============================================================================
 
 Video

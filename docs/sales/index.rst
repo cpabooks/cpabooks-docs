@@ -1,7 +1,7 @@
 .. _salesindex:
 
 .. meta::
-  :description: Sales and Invoicing - Odoo Version 12.0
+  :description: Sales and Invoicing - CPAbooks
   :keywords: Sales Quotation, Quotation Template, Discounts and Pricelist, Unit of Measure, Product and Tax, Invoicing, Delivery Charges, Manage Inventory, Service Product, Subscription, Customer Portal
 
 .. index::

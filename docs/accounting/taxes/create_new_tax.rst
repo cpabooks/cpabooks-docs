@@ -5,7 +5,7 @@
 Create a new taxes
 ==================
 
-Odoo's tax engine is very flexible and support many different type of
+CPAbooks's tax engine is very flexible and support many different type of
 taxes: value added taxes (VAT), eco-taxes, federal/states/city taxes,
 retention, withholding taxes, etc. For most countries, your system is
 pre-configured with the right taxes.

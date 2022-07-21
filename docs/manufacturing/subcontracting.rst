@@ -2,7 +2,7 @@
 
 .. meta::
    :description: Setup subcontracting in manufacturing process
-   :keywords: Odoo, Manufacturing, Subcontracting, Supply Material, Receive Service Bill, Receive Finished Product
+   :keywords: CPAbooks, Manufacturing, Subcontracting, Supply Material, Receive Service Bill, Receive Finished Product
 
 .. index::
    single: Subcontracting (Buy and Deliver Material)

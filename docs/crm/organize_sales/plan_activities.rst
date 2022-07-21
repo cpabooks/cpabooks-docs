@@ -11,7 +11,7 @@ Planning activities is the perfect way to keep on track of your work.
 Get reminded of what needs to be done and schedule the next activities
 to undertake.
 
-Your activities are available wherever you are in Odoo. It is easy to
+Your activities are available wherever you are in CPAbooks. It is easy to
 manage the priorities of your work.
 
 |image0|
@@ -44,7 +44,7 @@ soon as you complete the first one.
 Set your activity types
 -----------------------
 
-A number of generic activities types are available by default in Odoo
+A number of generic activities types are available by default in CPAbooks
 (e.g. call, email, meeting, etc.). If you would like to set new ones, go
 to **Settings / General settings / Activity** types.
 

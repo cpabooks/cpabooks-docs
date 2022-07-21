@@ -4,7 +4,7 @@
    single: Bank Reconciliation
 
 ===========================
-Bank Reconciliation in Odoo
+Bank Reconciliation in CPAbooks
 ===========================
 
 Video

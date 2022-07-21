@@ -1,4 +1,4 @@
-.. Odoo Book documentation master file, created by
+.. CPAbooks Book documentation master file, created by
    sphinx-quickstart on Mon Feb 10 23:08:02 2014.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
@@ -7,8 +7,8 @@
    single: Home
 
 .. meta::
-  :description: Odoo 14 Best Practices
-  :keywords: Odoo Book, Odoo Online, Online Odoo Book, Odoo Functional Book, Version 12.0
+  :description: CPAbooks 14 Best Practices
+  :keywords: CPAbooks Book, CPAbooks Online, Online CPAbooks Book, CPAbooks Functional Book, Version 12.0
 
 CPAbooks Best Practices
 ======================

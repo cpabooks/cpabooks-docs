@@ -8,7 +8,7 @@
    single: iOS
 
 ==========================================
-Access Odoo on your mobile phone or tablet
+Access CPAbooks on your mobile phone or tablet
 ==========================================
 
 The first Odoo mobile application was launched with the release on Odoo 10. Beginning of the Odoo 9, Odoo have started to adapt the mobile compatible design which will perfect for the desktop and mobile view, different types of views and menus are designed to flow and format properly on mobiles and tablets.

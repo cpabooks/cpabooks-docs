@@ -20,7 +20,7 @@ Contact Form application form the Apps.
 Contact us page
 ~~~~~~~~~~~~~~~
 
-You benefit from ready-to-use contact form on your Odoo website that
+You benefit from ready-to-use contact form on your CPAbooks website that
 will generate leads/opportunities automatically.
 
 |image1|
