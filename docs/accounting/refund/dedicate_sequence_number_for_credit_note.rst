@@ -2,7 +2,7 @@
 
 .. meta::
    :description: Setup the dedicated credit note or debit note sequence number, do not use invoice or vendor bill sequence
-   :keywords: Odoo, Credit Note Sequence, Debit Note Sequence, Dedicate Sequence, Invoice Sequence, Vendor Bill Sequence
+   :keywords: CPAbooks, Credit Note Sequence, Debit Note Sequence, Dedicate Sequence, Invoice Sequence, Vendor Bill Sequence
 
 .. index::
    single: Dedicate Credit Note or Debit Note Sequence

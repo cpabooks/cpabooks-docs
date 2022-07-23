@@ -4,7 +4,7 @@
    single: Check Printing
 
 ==============================================================
-Pay vendor bills by check and print check from Odoo accounting
+Pay vendor bills by check and print check from CPAbooks accounting
 ==============================================================
 
 Video

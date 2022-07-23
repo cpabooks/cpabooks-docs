@@ -2,7 +2,7 @@
 
 .. meta::
    :description: Show a check in customers statement, when it gets clear in bank but not when deposited
-   :keywords: Odoo, Bank Check, Customer Statement, Clear Check in Bank, Bank Reconciliation
+   :keywords: CPAbooks, Bank Check, Customer Statement, Clear Check in Bank, Bank Reconciliation
 
 .. index::
    single: Check Bounce Charges

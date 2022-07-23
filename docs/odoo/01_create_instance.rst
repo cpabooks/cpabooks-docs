@@ -8,28 +8,28 @@
    single: Free trial
 
 ==========================
-Create first Odoo instance
+Create first CPAbooks instance
 ==========================
 
-Accessing the Odoo online SaaS version could be very simple across all its
-different platform available. To start using the Odoo online version you need
+Accessing the CPAbooks online SaaS version could be very simple across all its
+different platform available. To start using the CPAbooks online version you need
 web browser.
 
-.. tip:: Odoo is a web based business application designed to run on various
+.. tip:: CPAbooks is a web based business application designed to run on various
   modern web browsers. Supported web browsers included
 
   * Google Chrome (recommended)
   * Firefox
   * Safari
 
-Signup at odoo.com
+Signup at CPAbooks.com
 ------------------
-Make sure that before create a new instance, you have an account at odoo.com,
+Make sure that before create a new instance, you have an account at CPAbooks,
 if not please create an account, visit https://www.odoo.com/web/signup to
 create a new account.
 
 .. image:: images/chapter_01_05.png
-   :alt: signup at odoo.com
+   :alt: signup at CPAbooks
    :align: center
 
 Create an instance
@@ -38,7 +38,7 @@ You can start with one application, the first application you start is free
 for unlimited users or you can continue the additional applications on the
 monthly subscription basics.
 
-Login into odoo.com, open the link https://accounts.odoo.com/trial and choose
+Login into CPAbooks, open the link https://accounts.odoo.com/trial and choose
 your first application you would like to start with, I choose CRM application
 to start with.
 
@@ -46,8 +46,8 @@ to start with.
   :align: center
 
 You will be asked to enter your name, email and phone number, the company name
-decide what will be your sub-domain on odoo.com. I have entered **My Company**,
-the subdomain allocated me is my-company.odoo.com, however you can change the
+decide what will be your sub-domain on CPAbooks. I have entered **My Company**,
+the subdomain allocated me is CPAbooks, however you can change the
 subdomain by clicking on it.
 
 .. image:: images/chapter_01_04.png
@@ -73,7 +73,7 @@ instance.
 Video
 -----
 Let’s see how to get start with the first free application, activate it and
-start using the Odoo online instance.
+start using the CPAbooks online instance.
 Access the video at https://www.youtube.com/watch?v=fAi-NGirE44
 
 .. raw:: html

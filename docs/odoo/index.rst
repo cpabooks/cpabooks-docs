@@ -1,7 +1,7 @@
 .. _odooindex:
 
 ======================
-Start with Odoo Online
+Start with CPAbooks Online
 ======================
 .. toctree::
    :maxdepth: 1

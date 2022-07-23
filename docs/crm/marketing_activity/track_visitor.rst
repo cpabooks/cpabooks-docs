@@ -53,7 +53,7 @@ Click on the **Get tracked link** button will generate the link that can
 be share and that link generates the statistical analysis, such as how
 many people visited by date, and form which country.
 
-.. tip:: To generate the correct statistics, you have to set up Odoo
+.. tip:: To generate the correct statistics, you have to set up CPAbooks
   correctly on reverse proxy and GeoIP data on Nginx. If not configure
   correctly you may get the number of visits but not the country
   information.

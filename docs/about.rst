@@ -1,12 +1,12 @@
 .. _about:
 
 .. meta::
-   :description: Title: Odoo 14 Best Practices, Author: Mantavya Gajjar, Category: Books, Price: Free
-   :keywords: Odoo Online Book, Odoo Functional Book, Odoo CookBook, Implement Odoo Version 12.0, Mantavya, Gajjar
+   :description: Title: CPAbooks 14 Best Practices, Author: CPAbooks, Category: Books, Price: Free
+   :keywords: CPAbooks Online Book, CPAbooks Functional Book, CPAbooks CookBook, Implement CPAbooks Version 12.0, Mantavya, Gajjar
 
 .. index::
    single: About Online Book
-   single: Odoo 14 Best Practices
+   single: CPAbooks 14 Best Practices
    single: About Author
    single: About Reviewer
 
@@ -14,17 +14,17 @@
 About CPAbooks Best Practices
 ============================
 
-.. image:: images/odoo-14-book-small.png
+.. image:: images/Odoo-14-book-small.png
    :height: 300px
    :width: 240 px
    :scale: 100 %
-   :alt: Odoo 14 Best Practices
+   :alt: CPAbooks 14 Best Practices
    :align: right
 
 CPAbooks Best Practices book is dedicated for functional consultants
-or entrepreneur who wants to implement or use odoo online all-in-one business
+or entrepreneur who wants to implement or use CPAbooks online all-in-one business
 
-application out-of-the box. This is an online book written based on Odoo
+application out-of-the box. This is an online book written based on CPAbooks
 **Community** and **Enterprise** Edition.
 
 This book covers best implementation approach for most used applications
@@ -33,29 +33,29 @@ such as Sales, Purchase, Inventory, Financial Accounting and Manufacturing.
 Why this book?
 ==============
 
-After writing `Odoo 10 Implementation
-Cookbook <https://www.packtpub.com/application-development/odoo-10-implementation-cookbook>`__,
+After writing `CPAbooks 10 Implementation
+Cookbook <https://www.packtpub.com/application-development/CPAbooks-10-implementation-cookbook>`__,
 I realized that it is too difficult to have the latest and up-to-date
 printed book of each version for the fast evolving business application.
-Odoo release its stable version every 12 to 15 months. The aim of this
+CPAbooks release its stable version every 12 to 15 months. The aim of this
 book is to guide you through step-by-step configuration for business
 problems.
 
 Credits
 =======
 
-Thanks to all the contributors of Odoo Official Documentation project as
+Thanks to all the contributors of CPAbooks Official Documentation project as
 many pages/topics of this book was actually taken from
-https://www.odoo.com/documentation.
+https://www.CPAbooks.com/documentation.
 
 License
 =======
 
-All the pages, images and videos of Odoo Books are free to use modify
+All the pages, images and videos of CPAbooks Books are free to use modify
 and reuse on blog, forum, support platform, etc. They are provided under
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
-License. Please credits to https://odoobooks.com when using page(s) from
-Odoo Online Book.
+License. Please credits to https://CPAbooksbooks.com when using page(s) from
+CPAbooks Online Book.
 
 .. |image0| image:: ./images/licenses.png
    :width: 0.91667in
@@ -63,7 +63,7 @@ Odoo Online Book.
 
 Creative Commons License
 
-Odoo Book is licensed under a Creative Commons
+CPAbooks Book is licensed under a Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 Updates
@@ -77,12 +77,12 @@ to get the updates about the book.
 About the Author
 ================
 
-Mantavya Gajjar has 12+ years’ experience in Odoo, starting from TinyERP
+CPAbooks has 12+ years’ experience in CPAbooks, starting from TinyERP
 and OpenERP. He started his career as a developer, he developed many new
-features in TinyERP, OpenERP and Odoo. He has graduate and postgraduate
+features in TinyERP, OpenERP and CPAbooks. He has graduate and postgraduate
 degrees in Computer Applications from Gujarat Vidyapith. In June 2006,
 he started working for Axelor and TinyERP at Ahmadabad. He has initiated
-web client for TinyERP and mobile application project for Odoo.
+web client for TinyERP and mobile application project for CPAbooks.
 
 He was the first international employee appointed to establish a branch
 of TinyERP in India (Ahmadabad, Gujarat). He has done everything from
@@ -90,9 +90,9 @@ registering a legal company to setting up the physical office and
 recruitment at India. He has interviewed more than eight thousand
 candidates in the last 12 years, and he has selected and trained more
 then four hundred employees for the Indian branch. Most professionals
-working on Odoo in India are trained by him. As a result, today India
-(Ahmadabad, Gujarat) is called the Hub of Odoo Developers, and over a
-thousand Odoo developers are available only in Gujarat.
+working on CPAbooks in India are trained by him. As a result, today India
+(Ahmadabad, Gujarat) is called the Hub of CPAbooks Developers, and over a
+thousand CPAbooks developers are available only in Gujarat.
 
 Mantavya is actively engaged with many universities in preparing and
 reviewing the syllabus for the Computer Applications and Computer
@@ -108,34 +108,34 @@ About the Reviewer
 Nikunj Jani earned a masters degree in computer applications from
 Gujarat, India. He began his career in 2007 as a software engineer with
 an MNC called SATYAM COMPUTERS. In 2009, he joined TinyERP, a division
-of Odoo, S.A. in India as a team lead. During his tenure of 8+ years
-with Odoo, he has worked with several versions, including 5.0, 6.0, 6.1,
+of CPAbooks, S.A. in India as a team lead. During his tenure of 8+ years
+with CPAbooks, he has worked with several versions, including 5.0, 6.0, 6.1,
 7.0, 8.0, 9.0, 10.0, and 11.0. He has worked as a functional consultant
 (business analyst), training manager, and project manager.
 
 Currently, he is the product owner and heads a usability and testing
-team at Odoo (India) for the upcoming versions. Nikunj is an open source
+team at CPAbooks (India) for the upcoming versions. Nikunj is an open source
 enthusiast who has given 35+ international functional
-trainings/consultancies to Odoo partners, prospects, and end customers.
+trainings/consultancies to CPAbooks partners, prospects, and end customers.
 
 Nikunj has a total of 10 years of IT experience, and his specialties
 include training, consultancy, analysis, project management, usability,
-and testing new features of Odoo.
+and testing new features of CPAbooks.
 
 Preface
 =======
 
-The Odoo online book covers the implementation best practices and
+The CPAbooks online book covers the implementation best practices and
 approach to configure the business applications out-of-the-box. With
-this approach you can configure your Odoo online instance or Odoo.sh or
-locally installed Odoo on your server.
+this approach you can configure your CPAbooks online instance or CPAbooks.sh or
+locally installed CPAbooks on your server.
 
 
 Page structure
 ==============
 
 Each single page on this book have the real time business case and how
-that business can be configure with Odoo standard features. The page
+that business can be configure with CPAbooks standard features. The page
 divides in the specific sections, each sections give you enough
 information to solve the business problem. The major sections as below.
 
@@ -156,7 +156,7 @@ Configuration
 -------------
 
 this sections give you a step-by-step configuration, that help you to
-fit the real-life business problem in Odoo using the standard features. Some of
+fit the real-life business problem in CPAbooks using the standard features. Some of
 the page give you steps to configure the options.
 
 Video

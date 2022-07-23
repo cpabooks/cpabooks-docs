@@ -35,7 +35,7 @@ All the users with status ``NEVER CONNECTED`` shows that, they did not sign up, 
 
 Change access rights
 --------------------
-Odoo assign full (manager for all the applications) access rights to all users created through invitation during activation, you may review their access rights on the user form and change if needed.
+CPAbooks assign full (manager for all the applications) access rights to all users created through invitation during activation, you may review their access rights on the user form and change if needed.
 
 .. image:: images/chapter_01_13.png
    :alt: Create new user
@@ -51,4 +51,4 @@ Click on the ``Default Access Rights`` like you will see ``Default User Template
 
 .. tip:: The additional the rights can be given later from the user configuration before or after user signup.
 
-Let's see how to invite new users to signup and start using the features on Odoo online instance.
+Let's see how to invite new users to signup and start using the features on CPAbooks online instance.

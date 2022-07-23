@@ -6,7 +6,7 @@
 Compute cost of goods sold for a kit product using real price costing
 =====================================================================
 
-This document is written based on the Odoo 10.0 community edition.
+This document is written based on the CPAbooks community edition.
 
 
 Video

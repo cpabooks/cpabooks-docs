@@ -5,12 +5,12 @@ Managing Employee Leaves
 Planning and forecasting tasks and projects required the updated
 information for the resource availability. Leave management application
 helps to provide the updated information for employee unavailability.
-Leave management application in Odoo can be used independant or
+Leave management application in CPAbooks can be used independant or
 integrated with Project Forecasting application for the better planning
 of any long term project.
 
 There are many business cases where tracking of employee leaves are
-necessary, let’s see how Odoo Leaves application will answer all those
+necessary, let’s see how CPAbooks Leaves application will answer all those
 business cases.
 
 Business case
@@ -28,7 +28,7 @@ are as below in our business case.
 * Employee can have the Compensatory Days off in some cases where
   employee have worked on off days
 
-Let’s configure all the above business cases in Odoo and get the updated
+Let’s configure all the above business cases in CPAbooks and get the updated
 leave information for all the employees.
 
 Configuration
@@ -123,7 +123,7 @@ tags, fix it before you proceed for the leave allocation.
 Leave Types
 -----------
 
-Default leave types are already given in the Odoo as a standard data,
+Default leave types are already given in the CPAbooks as a standard data,
 however you can create more if needed according to your business case.
 
 The leave types can be access from *Configuration* menu under the Leaves
@@ -142,7 +142,7 @@ approval of the leave will be done by Department Manager and HR Manager.
 however you can allow to request for more leave than the
 defined/allocated, i.e. sick leaves can be requested more than assigned.
 
-**Meeting Type:** Once a leave is validated, Odoo will create a meeting
+**Meeting Type:** Once a leave is validated, CPAbooks will create a meeting
 of this type on the correspondent calendar.
 
 **Color in Report:** This color will be used to To display the specific
@@ -190,7 +190,7 @@ By default the leave allocation will be in draft, it has to be requested
 for the approval, click on CONFIRM button to ask for the approval, HR
 Manager have the rights to approve the allocation request.
 
-As soon as the allocation request approved, Odoo will create an
+As soon as the allocation request approved, CPAbooks will create an
 individual leave allocation request for each employee who belongs to
 selected tag.
 

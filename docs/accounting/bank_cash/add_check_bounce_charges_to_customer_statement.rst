@@ -2,7 +2,7 @@
 
 .. meta::
    :description: Add check bounce charges to customers outstanding, when our bank charge penalty us
-   :keywords: Odoo, Bank Check, Check Bounce, Customer Statement, Bank Reconciliation, Bank Charges, Penalty
+   :keywords: CPAbooks, Bank Check, Check Bounce, Customer Statement, Bank Reconciliation, Bank Charges, Penalty
 
 .. index::
    single: Check Bounce Charges
