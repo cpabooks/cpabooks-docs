@@ -2,10 +2,10 @@
 .. index::
    single: Setup Sales Application
 
-Setup Odoo Sales Application
+Setup CPAbooks Sales Application
 ============================
 Please follow the steps listed below to setup and start using
-Odoo sales application for your business.
+CPAbooks sales application for your business.
 
 - Setup your company information
 - Choose the quotation layout you prefer for your company
