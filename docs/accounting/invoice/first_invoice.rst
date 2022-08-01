@@ -11,7 +11,7 @@ Users can also create invoices manually without using contracts or a sales order
 
 Video
 -----
-Access the video at https://www.youtube.com/watch?v=BtfBAHuHIyg
+Access the video at https://www.youtube.com/watch?v=jHyjDSx8yyI
 
 .. raw:: html
 
