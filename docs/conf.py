@@ -109,12 +109,12 @@ pygments_style = 'sphinx'
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
 
-html_logo = './images/odoo-14-book-title.png'
+html_logo = './images/cpabooks_docs_logo.jpeg'
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
 # pixels large.
-html_favicon = './images/favicon.ico'
+html_favicon = './images/cpabooks_round_icon.png'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -168,7 +168,7 @@ html_show_copyright = True
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'OdooBook'
+htmlhelp_basename = 'CPAbooks'
 
 pdf_master_doc = 'toc'
 latex_logo = 'images/odoo_logo.png'

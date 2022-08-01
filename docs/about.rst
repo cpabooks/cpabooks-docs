@@ -14,7 +14,7 @@
 About CPAbooks Best Practices
 ============================
 
-.. image:: images/Odoo-14-book-small.png
+.. image:: images/cpabooks_docs_logo.jpeg
    :height: 300px
    :width: 240 px
    :scale: 100 %
