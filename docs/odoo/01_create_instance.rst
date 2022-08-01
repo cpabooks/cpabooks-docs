@@ -25,7 +25,7 @@ web browser.
 Signup at CPAbooks.com
 ------------------
 Make sure that before create a new instance, you have an account at CPAbooks,
-if not please create an account, visit https://www.odoo.com/web/signup to
+if not please create an account, visit https://www.cpabooks.org/web/signup to
 create a new account.
 
 .. image:: images/chapter_01_05.png

@@ -54,7 +54,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Odoo'
+project = u'CPAbooks'
 copyright = u'CPAbooks'
 author = u'CPAbooks'
 
@@ -182,5 +182,5 @@ man_pages = [
 
 texinfo_documents = [
     (pdf_master_doc, 'odooonlinebook', project, author, 'odooonlinebook',
-        'Odoo 12 Best Practices Book', 'Miscellaneous'),
+        'CPAbooks Best Practices Book', 'Miscellaneous'),
 ]
