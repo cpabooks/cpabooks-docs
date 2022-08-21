@@ -11,10 +11,11 @@ price of *100 USD* per *iPad* with a **5% discount**.
 
 Video
 -----
-Access the video at https://www.youtube.com/watch?v=Lc8q1DZcET0
+Access the video at https://www.youtube.com/watch?v=th6l7YAYNA0
 
 .. raw:: html
 
     <div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/Lc8q1DZcET0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/th6l7YAYNA0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
+https://www.youtube.com/watch?v=th6l7YAYNA0
