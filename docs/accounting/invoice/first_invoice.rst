@@ -7,6 +7,7 @@
 ==================================================
 Create first customer invoice and register payment
 ==================================================
+
 Users can also create invoices manually without using contracts or a sales order. It's a recommended approach if you do not need to manage the sales process (quotations), or the delivery of the products or services.
 
 Video
