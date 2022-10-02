@@ -21,10 +21,10 @@ when inventory application is not managed in Odoo.
 
 Video
 -----
-Access the video at https://www.youtube.com/watch?v=vjdgXq5tC2c
+Access the video at https://www.youtube.com/watch?v=pM_ZpbEFixI
 
 .. raw:: html
 
     <div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/vjdgXq5tC2c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/pM_ZpbEFixI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
