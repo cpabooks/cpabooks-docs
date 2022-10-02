@@ -41,7 +41,7 @@ Accept online payment
 
 Installing the **Sales Management** application also installed the
 **Invoicing** application, the payment acquire needs to be activated
-from the list of payment acquires (payment gateways) available in Odoo.
+from the list of payment acquires (payment gateways) available in CPAbooks.
 All the payment acquires can be found and activated from **Invoicing /
 Configuration / Payment Acquirers**.Install and configure the payment
 acquirer, which suits your requirement.
@@ -55,8 +55,8 @@ I have installed and configure the *Authorised.net* payment acquirer.
   Transfer**.
 
 I have also made change to **Payment Flow** from *Redirect to the
-acquirer website* to *Payment from Odoo* as i want to process the
-payment directly from Odoo without redirecting to acquirer website. You
+acquirer website* to *Payment from CPAbooks* as i want to process the
+payment directly from CPAbooks without redirecting to acquirer website. You
 can switch to **Production** as soon as everything configured and
 working properly.
 
@@ -120,12 +120,12 @@ negotiation process.
 
 Video
 -----
-Access the video at https://www.youtube.com/watch?v=x08JPYRX0x4
+Access the video at https://www.youtube.com/watch?v=vq60OruLojk
 
 .. raw:: html
 
     <div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/x08JPYRX0x4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/vq60OruLojk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
 
 .. |image0| image:: static/online-customer-approval-and-payment-on-quotation/media/image9.png
