@@ -14,10 +14,10 @@ is to send the invoice just after the delivery based on the delivery.
 
 But, for you the biggest challenge is how to control the invoice or credit note
 based on the sale delivery or return of some products when inventory is not
-managed in Odoo.
+managed in CPAbooks.
 
 Let's see how to create an invoice or credit note based on the delivery or return
-when inventory application is not managed in Odoo.
+when inventory application is not managed in CPAbooks.
 
 Video
 -----
