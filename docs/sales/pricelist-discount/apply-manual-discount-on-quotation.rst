@@ -66,12 +66,12 @@ don’t want to offer discount to your customer.
 
 Video
 -----
-Access the video at https://www.youtube.com/watch?v=PKusW_QuwUU
+Access the video at https://www.youtube.com/watch?v=1yKZfcgf-_0
 
 .. raw:: html
 
     <div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/PKusW_QuwUU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/1yKZfcgf-_0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
 
 .. |image0| image:: static/apply_manual_discount/media/image4.png
