@@ -18,10 +18,10 @@ Let's send the pro-forma invoice to customer.
 
 Video
 -----
-Access the video at https://www.youtube.com/watch?v=yWO8EwoCW64
+Access the video at https://www.youtube.com/watch?v=1mjExs32Zg8
 
 .. raw:: html
 
     <div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/yWO8EwoCW64" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/1mjExs32Zg8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
