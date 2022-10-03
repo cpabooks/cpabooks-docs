@@ -19,7 +19,7 @@ Let’s set the default sales and purchase tax to Tax 15.00%.
 Configuration
 -------------
 
-All the new products created in the Odoo take the default tax set in the
+All the new products created in the CPAbook take the default tax set in the
 **Accounting/Invoicing** settings. To change the default taxes set for
 any new product created, goto **Invoicing / Configuration / Settings**.
 
@@ -47,12 +47,12 @@ on which product.
 
 Video
 -----
-Access the video at https://www.youtube.com/watch?v=d4CdJY9RANA
+Access the video at https://www.youtube.com/watch?v=7I7v5fYk_pI
 
 .. raw:: html
 
     <div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/d4CdJY9RANA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/7I7v5fYk_pI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
 
 .. |image0| image:: static/apply_default_tax/media/image6.png
