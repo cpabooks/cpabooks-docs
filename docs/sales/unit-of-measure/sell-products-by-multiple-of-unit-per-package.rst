@@ -18,10 +18,10 @@ it can be sold only in predefined package size.
 
 Video
 -----
-Access the video at https://www.youtube.com/watch?v=o6jJNbICZuU
+Access the video at https://www.youtube.com/watch?v=bpPvdAT4Lks
 
 .. raw:: html
 
     <div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/o6jJNbICZuU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/bpPvdAT4Lks" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
