@@ -87,12 +87,12 @@ on quotation.
 
 Video
 -----
-Access the video at https://www.youtube.com/watch?v=tt70LD6Nhs8
+Access the video at https://www.youtube.com/watch?v=OeFJyESIlLs
 
 .. raw:: html
 
     <div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/tt70LD6Nhs8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/OeFJyESIlLs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
 
 .. |image0| image:: static/quick_create_quotation_using_quotation_template/media/image8.png
