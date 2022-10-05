@@ -85,12 +85,12 @@ parameters. Create a new system parameters with key
 
 Video
 -----
-Access the video at https://drive.google.com/file/d/1EJsfk3MtppcdyzhB_xCvHqC05ZNkPSRj/preview
+Access the video at https://www.youtube.com/watch?v=vq60OruLojk
 
 .. raw:: html
 
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-      <iframe src="https://drive.google.com/file/d/1EJsfk3MtppcdyzhB_xCvHqC05ZNkPSRj/preview" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
+      <iframe src=""https://www.youtube.com/embed/vq60OruLojk" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
   </div>
 
 .. |image0| image:: ./static/automtic_assign/media/image6.png
