@@ -7,7 +7,7 @@
    single: Production instance
 
 ==========================
-Duplicate an Odoo instance
+Duplicate an CPAbooks instance
 ==========================
 
 It is advisable to make a duplicate copy of the production database before you change the configuration or try to implement  the new feature. You can be sure that production environment will remain stable while working with the test instance. On Odoo online you can create as many as test instance you want. You can create a test instance:
