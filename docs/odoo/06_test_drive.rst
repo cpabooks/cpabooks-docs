@@ -11,20 +11,20 @@ CPAbooks offers a platform where you can test latest stable version of the CPAbo
 
 CPAbooks Online Demo
 ----------------
-CPAbooks instant demonstration can be found at https://demo.CPAbooks.com. Online demo is perfect fit for the visitors who wanted to test the latest stable CPAbooks software without installing or creating an online instance, demo instance will be refreshed every 24 hours automatically so all the data created by you will be erased automatically.
+CPAbooks instant demonstration can be found at https://demo.CPAbooks.org. Online demo is perfect fit for the visitors who wanted to test the latest stable CPAbooks software without installing or creating an online instance, demo instance will be refreshed every 24 hours automatically so all the data created by you will be erased automatically.
 
 .. image:: images/chapter_01_07.png
    :alt: CRM, Sales and Invoicing for 5 users
    :align: center
 
-.. tip:: Don't worry if your URL will be changed form https://demo.CPAbooks.com to https://demo1.CPAbooks.com, https://demo2.CPAbooks.com or https://demo3.CPAbooks.com, CPAbooks started many demo instance, you will be redirected to the instance having low traffic.
+.. tip:: Don't worry if your URL will be changed form https://demo.CPAbooks.org to https://demo1.CPAbooks.org, https://demo2.CPAbooks.org or https://demo3.CPAbooks.org, CPAbooks started many demo instance, you will be redirected to the instance having low traffic.
 
 Test upcoming features
 ----------------------
 **CPAbooks Runbot** is automated test platform user for the continuous integration designed and developed by CPAbooks SA. It is integrated with github.com to test each and every committee made by the CPAbooks developers. CPAbooks Employees worldwide use this platform for the internal testing before merging any feature into the master branch.
 
 .. image:: images/chapter_01_08.png
-   :alt: runbot.CPAbooks.com
+   :alt: runbot.CPAbooks.org
    :align: center
 
 Background colours of committee represents the status of the committee, Green represents successfully tested without any ERROR while Red represents ERROR in the code, either code is not clean or there is any test-case failed. You can not connect the committee which are in Blue color as there are currently being tested by the runbot.
