@@ -33,8 +33,7 @@ such as Sales, Purchase, Inventory, Financial Accounting and Manufacturing.
 Why this book?
 ==============
 
-After writing `CPAbooks 10 Implementation
-Cookbook <https://www.packtpub.com/application-development/CPAbooks-10-implementation-cookbook>`__,
+After writing `CPAbooks 10 Implementation Cookbook
 I realized that it is too difficult to have the latest and up-to-date
 printed book of each version for the fast evolving business application.
 CPAbooks release its stable version every 12 to 15 months. The aim of this
@@ -46,7 +45,7 @@ Credits
 
 Thanks to all the contributors of CPAbooks Official Documentation project as
 many pages/topics of this book was actually taken from
-https://www.CPAbooks.com/documentation.
+https://www.CPAbooks.org
 
 License
 =======
@@ -54,7 +53,7 @@ License
 All the pages, images and videos of CPAbooks Books are free to use modify
 and reuse on blog, forum, support platform, etc. They are provided under
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
-License. Please credits to https://CPAbooksbooks.com when using page(s) from
+License. Please credits to https://CPAbooksbooks.org when using page(s) from
 CPAbooks Online Book.
 
 .. |image0| image:: ./images/licenses.png
@@ -68,10 +67,10 @@ Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 Updates
 =======
-You can subscribe to `Youtube <https://www.youtube.com/c/MantavyaGajjar>`_
+You can subscribe to `Youtube <https://www.youtube.com/channel/UCcKKLlJw18jXPKtPMx7HnoA>`_
 channel to receive an instance update about the new videos and pages on this book.
 
-You can follow `Twitter <https://www.twitter.com/mantavyagajjar>`_ channel
+You can follow `Twitter <https://twitter.com/CpabooksS>`_ channel
 to get the updates about the book.
 
 About the Author
@@ -165,7 +164,8 @@ Video
 This section gives you a link on the PDF or embedded videos on the
 online book, that shows you the detailed configuration steps and the
 steps to execute the business case. You can get access to all the videos
-used in this book at `Youtube <https://www.youtube.com/c/MantavyaGajjar>`_.
+used in this book at `Youtube <https://www.youtube.com/channel/UCcKKLlJw18jXPKtPMx7HnoA
+>`_.
 
 See also
 --------
