@@ -4,7 +4,7 @@
    single: Z-Report
    
 ==============================================
-How to print z-report from Odoo point of sale?
+How to print z-report from CPAbooks point of sale?
 ==============================================
 
 Video
