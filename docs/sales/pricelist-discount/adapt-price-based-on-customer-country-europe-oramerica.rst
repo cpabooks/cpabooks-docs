@@ -15,7 +15,7 @@ configure both business case using the pricelist.
 Business case
 -------------
 
-Odoo wants to apply pricing rules for the customer irrespective of the
+CPAbooks wants to apply pricing rules for the customer irrespective of the
 currency conversion based on the customer location. They divide whole
 world into three different region and specific price for each region.
 
@@ -24,7 +24,7 @@ world into three different region and specific price for each region.
 |                 | (USD)**         | Middle East     |                 |
 |                 |                 | (EUR)**         |                 |
 +=================+=================+=================+=================+
-| Odoo Enterprise | 28              | 24              | 16              |
+| CPA Enterprise  | 28              | 24              | 16              |
 | (Users)         |                 |                 |                 |
 +-----------------+-----------------+-----------------+-----------------+
 
@@ -150,12 +150,12 @@ will be proposed by the pricelist.
 
 Video
 -----
-Access the video at https://www.youtube.com/watch?v=ZV1dD7ewIKI
+Access the video at https://www.youtube.com/watch?v=vq60OruLojk
 
 .. raw:: html
 
     <div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/ZV1dD7ewIKI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/vq60OruLojk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
 
 .. |image0| image:: static/price_based_on_customer/media/image15.png
