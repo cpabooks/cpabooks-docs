@@ -38,7 +38,7 @@ Configuration
 In order to sell services and to send invoices, you need to install the Sales
 application, from the Apps icon.
 
-In Odoo, each milestone of your project is considered as a product. From the
+In CPAbooks, each milestone of your project is considered as a product. From the
 Sales application, use the menu Sales ‣ Products, create a new product with
 the following setup:
 
@@ -51,7 +51,7 @@ the following setup:
   on your sale order
 
 .. image:: ../images/chapter_02_11.png
-   :alt: signup at odoo.com
+   :alt: signup at CPAbooks.com
    :align: center
 
 .. note:: Apply the same configuration for the others milestones.
@@ -65,7 +65,7 @@ quotation is confirmed and transformed into a sale order, you will be able to
 change the delivered quantities when the corresponding milestone has been achieved.
 
 .. image:: ../images/chapter_02_12.png
-   :alt: signup at odoo.com
+   :alt: signup at CPAbook.com
    :align: center
 
 Invoice milestones
@@ -84,12 +84,12 @@ lines and validate. It will create a new invoice (in draft status) with only
 the strategy audit product as invoiceable.
 
 .. image:: ../images/chapter_02_13.png
-   :alt: signup at odoo.com
+   :alt: signup at CPAbooks.com
    :align: center
 
 .. note:: In order to be able to invoice a product, you need to set up the
   Accounting application and to configure an accounting journal and a chart of
-  account. Click on the following link to learn more: How to setup Odoo Accounting?
+  account. Click on the following link to learn more: How to setup CPAbooks Accounting?
 
 Back on your sale order, you will notice that the Invoiced column of your order
 line has been updated accordingly and that the Invoice Status is back to Nothing
@@ -99,10 +99,10 @@ Follow the same workflow to invoice your remaining milestones.
 
 Video
 -----
-Access the video at https://www.youtube.com/watch?v=LYVdSEsQwAM
+Access the video at https://www.youtube.com/watch?v=vq60OruLojk
 
 .. raw:: html
 
     <div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/LYVdSEsQwAM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/vq60OruLojk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
