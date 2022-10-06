@@ -22,23 +22,27 @@ About CPAbooks Best Practices
    :align: right
 
 CPAbooks Best Practices book is dedicated for functional consultants
-or entrepreneur who wants to implement or use CPAbooks online all-in-one business
+or entrepreneur who wants to implement or use CPAbooks online Cloud ERP all-in-one business services.
 
 application out-of-the box. This is an online book written based on CPAbooks
 **Community** and **Enterprise** Edition.
 
 This book covers best implementation approach for most used applications
-such as Sales, Purchase, Inventory, Financial Accounting and Manufacturing.
+such as Sales, Purchase, Inventory, Financial Accounting, Manufacturing, Project Management, Logistic Services, Facilities Management CRM and Payrolls.
 
-Why this book?
+Why this CPAbook?
 ==============
 
-After writing `CPAbooks 10 Implementation Cookbook
-I realized that it is too difficult to have the latest and up-to-date
-printed book of each version for the fast evolving business application.
-CPAbooks release its stable version every 12 to 15 months. The aim of this
-book is to guide you through step-by-step configuration for business
-problems.
+CPAbooks is a fast-growing With itscloud-based
+hosting and browser base functionality CPAbooks-ERP
+can be accessed from anywhere, any device with any
+operating system.With its integrated modular
+functionalities covering all business processes made
+it the most preferred ERP. It’s a cost effective, simple
+and scalable solution efficiently suitable for small to
+large business enterprises. It has added security
+features like IP address restriction to protect the
+data from unauthorized access
 
 Credits
 =======
@@ -76,50 +80,12 @@ to get the updates about the book.
 About the Author
 ================
 
-CPAbooks has 12+ years’ experience in CPAbooks, starting from TinyERP
-and OpenERP. He started his career as a developer, he developed many new
-features in TinyERP, OpenERP and CPAbooks. He has graduate and postgraduate
-degrees in Computer Applications from Gujarat Vidyapith. In June 2006,
-he started working for Axelor and TinyERP at Ahmadabad. He has initiated
-web client for TinyERP and mobile application project for CPAbooks.
-
-He was the first international employee appointed to establish a branch
-of TinyERP in India (Ahmadabad, Gujarat). He has done everything from
-registering a legal company to setting up the physical office and
-recruitment at India. He has interviewed more than eight thousand
-candidates in the last 12 years, and he has selected and trained more
-then four hundred employees for the Indian branch. Most professionals
-working on CPAbooks in India are trained by him. As a result, today India
-(Ahmadabad, Gujarat) is called the Hub of CPAbooks Developers, and over a
-thousand CPAbooks developers are available only in Gujarat.
-
-Mantavya is actively engaged with many universities in preparing and
-reviewing the syllabus for the Computer Applications and Computer
-Science courses. He has reviewed thousands of academic student projects.
-As an alumnus of the Gujarat Vidyapith Computer Science Alumni
-Association, he contributes his free time to various social activities.
-He also plays the role of a trustee member and treasurer at Gujarat
-Vidyapith Computer Science Alumni Association.
+Abdus Stm SENIOR FINANCE & BUSINESS PROFESSIONAL Over 24 years’ rich, cross-cultural experience in Global Multi-Million Dollar organizations with impressive success in Business strategic & financial planning, financial control, accounting functions, ERP Development & Implementations. During his professional and business career have had played various roles such as CEO, ERP Developent Project Manager, General Manager, Finance Manager, Senior officer, Chief Accountant, Managing Director Junior Accountant Financial Advisor and all across State of Qatar, Kingdom of Saudi Arabia, Bangladesh & United Arab Emirates (Abu Dhabi & Dubai) He worked with EMCOR UK (Plc) Qatar, EFS Facilities Services Saudi Arabia, Scholastica Group, Bangladesh, EFS Facilities Services Abu Dhabi, EFS Facilities Services Dubai, Al Ishraf Electrical Contracting LLC, Macrobert Associates FZE & CPAbooks IT Middle East.
 
 About the Reviewer
 ==================
 
-Nikunj Jani earned a masters degree in computer applications from
-Gujarat, India. He began his career in 2007 as a software engineer with
-an MNC called SATYAM COMPUTERS. In 2009, he joined TinyERP, a division
-of CPAbooks, S.A. in India as a team lead. During his tenure of 8+ years
-with CPAbooks, he has worked with several versions, including 5.0, 6.0, 6.1,
-7.0, 8.0, 9.0, 10.0, and 11.0. He has worked as a functional consultant
-(business analyst), training manager, and project manager.
 
-Currently, he is the product owner and heads a usability and testing
-team at CPAbooks (India) for the upcoming versions. Nikunj is an open source
-enthusiast who has given 35+ international functional
-trainings/consultancies to CPAbooks partners, prospects, and end customers.
-
-Nikunj has a total of 10 years of IT experience, and his specialties
-include training, consultancy, analysis, project management, usability,
-and testing new features of CPAbooks.
 
 Preface
 =======
