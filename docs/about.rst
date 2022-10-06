@@ -33,16 +33,38 @@ such as Sales, Purchase, Inventory, Financial Accounting, Manufacturing, Project
 Why this CPAbook?
 ==============
 
-CPAbooks is a fast-growing With itscloud-based
-hosting and browser base functionality CPAbooks-ERP
-can be accessed from anywhere, any device with any
-operating system.With its integrated modular
-functionalities covering all business processes made
-it the most preferred ERP. It’s a cost effective, simple
-and scalable solution efficiently suitable for small to
-large business enterprises. It has added security
-features like IP address restriction to protect the
-data from unauthorized access
+***WHY CPAbooks ERP?***
+
+**Cloud Base Product**
+Can be accessed from anywhere any time.
+
+**Browser Based Functionality**
+Can be accessed in Desktop, Laptops, Tablets , Mobile Phones
+compatible with all above devices with any operating system.
+
+**Fast and Easy Implementations**
+With user-friendly architecture ERP can be implemented with-in days
+and weeks depending on the size of organizations.
+
+**User authorization and Access Rights**
+User authorization can be defined at functional and transactional level.
+
+**Transaction Approval Matrix**
+User authorization for documents approval can be defined at functional
+and transactional level with amount restrictions.
+
+**Restriction of online Access**
+User rights of access can be restricted with reference to IP addresses
+to access the ERP.
+
+**Robust Reporting**
+Number of inbuild reports with business analytics.
+
+**Customizable Solution**
+ERP can customize as pre specific requirement of the user
+
+**Fully Secured Environment**
+Extra security features for data and access security
 
 Credits
 =======
