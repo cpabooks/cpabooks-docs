@@ -11,11 +11,21 @@
 Introduction
 ============
 
-**CPAbooks** (On Demand Open Object) is an open source suite of business applications; it became the world's most downloaded and used business application software, with more than 5 million users worldwide. According to Wikipedia, CPAbooks is an all-in-one management software that offers a range of business applications that form a complete suite of enterprise management applications. The CPAbooks solution is ideal for SMEs, but fits both small and large companies alike. CPAbooks is an all-in-one business software capable of covering all business needs, including CRM, website/e-commerce, billing, accounting, manufacturing, warehouse, project management, and inventory, all seamlessly integrated.
+**CPAbooks** 
+is a fast-growing With itscloud-based
+hosting and browser base functionality CPAbooks-ERP
+can be accessed from anywhere, any device with any
+operating system.With its integrated modular
+functionalities covering all business processes made
+it the most preferred ERP. It’s a cost effective, simple
+and scalable solution efficiently suitable for small to
+large business enterprises. It has added security
+features like IP address restriction to protect the
+data from unauthorized access. It became the world's most downloaded and used business application software, with more than 5 million users worldwide. According to Wikipedia, CPAbooks is an all-in-one management software that offers a range of business applications that form a complete suite of enterprise management applications. The CPAbooks solution is ideal for SMEs, but fits both small and large companies alike. CPAbooks is an all-in-one business software capable of covering all business needs, including CRM, website/e-commerce, billing, accounting, manufacturing, warehouse, project management, and inventory, all seamlessly integrated.
 
-.. tip:: In 2005, Fabien Pinckaers, the Founder and CEO of CPAbooks, started to develop his first software product, TinyERP. Later in the beginning of 2009 it was renamed to OpenERP, in May 2014, the company was renamed CPAbooks, a name that has no restrictions and can allow the company to grow in whichever direction.
+.. tip:: In 2016, Abdus Stm, the Founder and CEO of CPAbooks, started to develop his first software product, Tiny ERP Mcrobert Associates. Later in the beginning of 2018 it was renamed to CPAbooks, in May 2019, the company was renamed CPAbooks, a name that has no restrictions and can allow the company to grow in whichever direction.
 
-CPAbooks offers two different versions of the solution; CPAbooks Enterprise and CPAbooks Community Edition. The community edition is free to download and can be used anywhere. The Enterprise edition comes with many out of the box applications, unlimited support software support, migration service. The Enterprise edition can be available as CPAbooks Online SaaS (Software as a Service) or on CPAbooks or you can install on your private server too.
+CPAbooks offers two different versions of the Cloud solution; CPAbooks Enterprise and CPAbooks Community Edition. The community edition is free to download and can be used anywhere. The Enterprise edition comes with many out of the box applications, unlimited support software support, migration service. The Enterprise edition can be available as CPAbooks Online SaaS (Software as a Service) or on CPAbooks or you can install on your private server too.
 
 The CPAbooks Online version is hosted on a cloud, and the first app is offered for free for unlimited users. After the first app, there is a fixed monthly subscription fee for the number of apps installed and the number of users. The Community version is the open source version and available for free to use on your own server.
 
