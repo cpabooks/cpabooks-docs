@@ -62,7 +62,7 @@ simply open to let you select a time slot.
 
 Video
 -----
-Access the video at https://www.youtube.com/watch?v=/eH28p0r61po
+Access the video at https://www.youtube.com/watch?v=eH28p0r61po
 
 .. raw:: html
 
