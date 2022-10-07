@@ -50,9 +50,6 @@ decide what will be your sub-domain on CPAbooks. I have entered **My Company**,
 the subdomain allocated me is CPAbooks, however you can change the
 subdomain by clicking on it.
 
-.. image:: images/chapter_01_04.png
-    :align: center
-
 Activate an instance
 --------------------
 The first screen you will get on successful instance creation is your home
