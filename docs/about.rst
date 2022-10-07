@@ -24,7 +24,7 @@ About CPAbooks Best Practices
 CPAbooks Best Practices book is dedicated for functional consultants
 or entrepreneur who wants to implement or use CPAbooks online Cloud ERP all-in-one business services.
 
-application out-of-the box. This is an online book written based on CPAbooks
+application out-of-the box. This is an online book written based on **CPAbooks Cloud ERP**
 **Community** and **Enterprise** Edition.
 
 This book covers best implementation approach for most used applications
@@ -103,10 +103,6 @@ About the Author
 ================
 
 Abdus Stm SENIOR FINANCE & BUSINESS PROFESSIONAL Over 24 years’ rich, cross-cultural experience in Global Multi-Million Dollar organizations with impressive success in Business strategic & financial planning, financial control, accounting functions, ERP Development & Implementations. During his professional and business career have had played various roles such as CEO, ERP Developent Project Manager, General Manager, Finance Manager, Senior officer, Chief Accountant, Managing Director Junior Accountant Financial Advisor and all across State of Qatar, Kingdom of Saudi Arabia, Bangladesh & United Arab Emirates (Abu Dhabi & Dubai) He worked with EMCOR UK (Plc) Qatar, EFS Facilities Services Saudi Arabia, Scholastica Group, Bangladesh, EFS Facilities Services Abu Dhabi, EFS Facilities Services Dubai, Al Ishraf Electrical Contracting LLC, Macrobert Associates FZE & CPAbooks IT Middle East.
-
-About the Reviewer
-==================
-
 
 
 Preface
