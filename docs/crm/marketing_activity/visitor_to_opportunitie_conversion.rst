@@ -46,7 +46,7 @@ contact detail to get more information about the product, you can have
 an opportunity created in the CRM application.
 
 Generate leads/opportunities from your website contact page -
-https://odoobooks.com/en/11.0/crm/generate_lead_from_webstie.html
+https://www.cpabooks.org/contact-us
 
 Form Builder
 ~~~~~~~~~~~~
