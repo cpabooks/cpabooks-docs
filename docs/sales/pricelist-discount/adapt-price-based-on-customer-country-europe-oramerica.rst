@@ -150,12 +150,12 @@ will be proposed by the pricelist.
 
 Video
 -----
-Access the video at https://www.youtube.com/watch?v=vq60OruLojk
+Access the video at https://www.youtube.com/watch?v=40U5wkKscE0
 
 .. raw:: html
 
     <div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/vq60OruLojk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/40U5wkKscE0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
 
 .. |image0| image:: static/price_based_on_customer/media/image15.png
