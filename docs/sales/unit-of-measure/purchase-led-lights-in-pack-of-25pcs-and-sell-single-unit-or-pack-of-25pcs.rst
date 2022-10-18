@@ -19,10 +19,10 @@ in pack of 25 as it is or single unit.
 
 Video
 -----
-Access the video at https://www.youtube.com/watch?v=vq60OruLojk
+Access the video at https://www.youtube.com/watch?v=ZYu_zVrHMMQ
 
 .. raw:: html
 
     <div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/vq60OruLojk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/ZYu_zVrHMMQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
